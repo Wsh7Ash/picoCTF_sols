@@ -7,3 +7,5 @@ PIE TIME        : picoCTF{b4s1c_p051t10n_1nd3p3nd3nc3_93dd5fcb}
 n0s4n1ty 1      : picoCTF{wh47_c4n_u_d0_wPHP_4043cda3}
 ----------------------------------------------------------------------------------------
 head-dump       : picoCTF{Pat!3nt_15_Th3_K3y_388d10f7}
+----------------------------------------------------------------------------------------
+hashcrack       : picoCTF{UseStr0nG_h@shEs_&PaSswDs!_ce730f64}
