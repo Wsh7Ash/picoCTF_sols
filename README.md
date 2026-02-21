@@ -1,58 +1,55 @@
-DISKO1          : picoCTF{1t5_ju5t_4_5tr1n9_c63b02ef}
-----------------------------------------------------------------------------------------
-SSTI1           : picoCTF{s4rv3r_s1d3_t3mp14t3_1nj3ct10n5_4r3_c001_99fe4411}
-----------------------------------------------------------------------------------------
-PIE TIME        : picoCTF{b4s1c_p051t10n_1nd3p3nd3nc3_93dd5fcb}
-----------------------------------------------------------------------------------------
-n0s4n1ty 1      : picoCTF{wh47_c4n_u_d0_wPHP_4043cda3}
-----------------------------------------------------------------------------------------
-head-dump       : picoCTF{Pat!3nt_15_Th3_K3y_388d10f7}
-----------------------------------------------------------------------------------------
-hashcrack       : picoCTF{UseStr0nG_h@shEs_&PaSswDs!_ce730f64}
-----------------------------------------------------------------------------------------
-Flag Hunters    : picoCTF{70637h3r_f0r3v3r_62666df2}
-----------------------------------------------------------------------------------------
-FANTASY CTF     : picoCTF{m1113n1um_3d1710n_da2cd4b9}
-----------------------------------------------------------------------------------------
-EVEN RSA CAN BE BROKEN??? : picoCTF{tw0_1$_pr!m33991588e}
-----------------------------------------------------------------------------------------
-Cookie Monster Secret Recipe : picoCTF{c00k1e_m0nster_l0ves_c00kies_AC8FCD75}
-----------------------------------------------------------------------------------------
-Rust fixme 3     : picoCTF{n0w_y0uv3_f1x3d_1h3m_411}
-----------------------------------------------------------------------------------------
-Rust fixme 2     : picoCTF{4r3_y0u_h4v1n5_fun_y31?}
-----------------------------------------------------------------------------------------
-Rust fixme 1     : picoCTF{4r3_y0u_4_ru$t4c30n_n0w?}
-----------------------------------------------------------------------------------------
-RED              : picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}
-----------------------------------------------------------------------------------------
-Ph4nt0m 1ntrud3r : picoCTF{1t_w4snt_th4t_34sy_tbh_4r_af160980}
-----------------------------------------------------------------------------------------
-Verify           : picoCTF{trust_but_verify_2cdcb2de}
-----------------------------------------------------------------------------------------
-Scan Surprise    : picoCTF{p33k_@_b00_19eccd10}
-----------------------------------------------------------------------------------------
-Binary Search    : picoCTF{g00d_gu355_2e90d29b}
-----------------------------------------------------------------------------------------
-heap 0           : picoCTF{my_first_heap_overflow_76775c7c}
-----------------------------------------------------------------------------------------
-format string 0  : picoCTF{7h3_cu570m3r_15_n3v3r_SEGFAULT_dc0f36c4}
-----------------------------------------------------------------------------------------
-WebDecode        : picoCTF{web_succ3ssfully_d3c0ded_283e62fe}
-----------------------------------------------------------------------------------------
-Unminify         : picoCTF{pr3tty_c0d3_ed938a7e}
-----------------------------------------------------------------------------------------
-Time Machine     : picoCTF{t1m3m@ch1n3_e8c98b3a}
-----------------------------------------------------------------------------------------
-Super SSH        : picoCTF{s3cur3_c0nn3ct10n_3e293eea}
-----------------------------------------------------------------------------------------
-Secret of the Polyglot : picoCTF{f1u3n7_1n_pn9_&_pdf_53b741d6}
-----------------------------------------------------------------------------------------
-interencdec      : picoCTF{caesar_d3cr9pt3d_890d2379}
-----------------------------------------------------------------------------------------
-endianness       : picoCTF{3ndi4n_sw4p_su33ess_28329f0a}
-----------------------------------------------------------------------------------------
-Commitment Issues : picoCTF{s@n1t1z3_cf09a485}
-----------------------------------------------------------------------------------------
-Collaborative Development : picoCTF{t3@mw0rk_m@k3s_th3_dr3@m_w0rk_7ae8dd33}
-----------------------------------------------------------------------------------------
+# picoCTF Solutions
+
+[![picoCTF Profile](https://img.shields.io/badge/picoCTF-FF6B6B?style=for-the-badge&logo=ctf&logoColor=white)](https://play.picoctf.org/users/spw)
+
+Collection of picoCTF challenge solutions and writeups.
+
+## 📊 Statistics
+- **Challenges Solved**: 30+
+- **Categories**: Web Exploitation, Binary Exploitation, Cryptography, Forensics
+- **Difficulty Range**: Beginner to Advanced
+
+## 🗂️ Categories
+
+### 🔐 Cryptography
+- **EVEN RSA CAN BE BROKEN???**: `picoCTF{tw0_1$_pr!m33991588e}`
+- **interencdec**: `picoCTF{caesar_d3cr9pt3d_890d2379}`
+- **endianness**: `picoCTF{3ndi4n_sw4p_su33ess_28329f0a}`
+
+### 🌐 Web Exploitation
+- **SSTI1**: `picoCTF{s4rv3r_s1d3_t3mp14t3_1nj3ct10n5_4r3_c001_99fe4411}`
+- **Cookie Monster Secret Recipe**: `picoCTF{c00k1e_m0nster_l0ves_c00kies_AC8FCD75}`
+- **WebDecode**: `picoCTF{web_succ3ssfully_d3c0ded_283e62fe}`
+
+### 💻 Binary Exploitation
+- **heap 0**: `picoCTF{my_first_heap_overflow_76775c7c}`
+- **format string 0**: `picoCTF{7h3_cu570m3r_15_n3v3r_SEGFAULT_dc0f36c4}`
+- **n0s4n1ty 1**: `picoCTF{wh47_c4n_u_d0_wPHP_4043cda3}`
+
+### 🔍 Forensics
+- **head-dump**: `picoCTF{Pat!3nt_15_Th3_K3y_388d10f7}`
+- **hashcrack**: `picoCTF{UseStr0nG_h@shEs_&PaSswDs!_ce730f64}`
+- **DISKO1**: `picoCTF{1t5_ju5t_4_5tr1n9_c63b02ef}`
+
+### 🛠️ Reverse Engineering
+- **Rust fixme 1**: `picoCTF{4r3_y0u_4_ru$t4c30n_n0w?}`
+- **Rust fixme 2**: `picoCTF{4r3_y0u_h4v1n5_fun_y31?}`
+- **Rust fixme 3**: `picoCTF{n0w_y0uv3_f1x3d_1h3m_411}`
+
+### 📁 General Skills
+- **PIE TIME**: `picoCTF{b4s1c_p051t10n_1nd3p3nd3nc3_93dd5fcb}`
+- **Binary Search**: `picoCTF{g00d_gu355_2e90d29b}`
+- **Verify**: `picoCTF{trust_but_verify_2cdcb2de}`
+- **Ph4nt0m 1ntrud3r**: `picoCTF{1t_w4snt_th4t_34sy_tbh_4r_af160980}`
+- **RED**: `picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}`
+- **Flag Hunters**: `picoCTF{70637h3r_f0r3v3r_62666df2}`
+- **FANTASY CTF**: `picoCTF{m1113n1um_3d1710n_da2cd4b9}`
+- **Scan Surprise**: `picoCTF{p33k_@_b00_19eccd10}`
+- **Unminify**: `picoCTF{pr3tty_c0d3_ed938a7e}`
+- **Time Machine**: `picoCTF{t1m3m@ch1n3_e8c98b3a}`
+- **Super SSH**: `picoCTF{s3cur3_c0nn3ct10n_3e293eea}`
+- **Secret of the Polyglot**: `picoCTF{f1u3n7_1n_pn9_&_pdf_53b741d6}`
+- **Commitment Issues**: `picoCTF{s@n1t1z3_cf09a485}`
+- **Collaborative Development**: `picoCTF{t3@mw0rk_m@k3s_th3_dr3@m_w0rk_7ae8dd33}`
+- **Riddle Registry**: `picoCTF{puzzl3d_m3tadata_f0und!_c8f91d68}`
+`
