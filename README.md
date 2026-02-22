@@ -5,7 +5,7 @@
 Collection of picoCTF challenge solutions and writeups.
 
 ## 📊 Statistics
-- **Challenges Solved**: 30+
+- **Challenges Solved**: 31+
 - **Categories**: Web Exploitation, Binary Exploitation, Cryptography, Forensics
 - **Difficulty Range**: Beginner to Advanced
 
@@ -52,4 +52,4 @@ Collection of picoCTF challenge solutions and writeups.
 - **Commitment Issues**: `picoCTF{s@n1t1z3_cf09a485}`
 - **Collaborative Development**: `picoCTF{t3@mw0rk_m@k3s_th3_dr3@m_w0rk_7ae8dd33}`
 - **Riddle Registry**: `picoCTF{puzzl3d_m3tadata_f0und!_c8f91d68}`
-`
+- **Log Hunt**: `picoCTF{us3_y0urlinux_sk1lls_cedfa5fb}`
